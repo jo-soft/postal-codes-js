@@ -87,7 +87,6 @@
     "LK",
     "LY",
     "MA",
-    "MC",
     "ME",
     "MM",
     "MN",
@@ -109,7 +108,6 @@
     "TD",
     "TH",
     "TR",
-    "TW",
     "TZ",
     "UA",
     "UY",
@@ -218,6 +216,9 @@
   "LV.json": [
     "LV"
   ],
+  "MC.json": [
+    "MC"
+  ],
   "MD.json": [
     "MD"
   ],
@@ -271,6 +272,9 @@
   ],
   "TC.json": [
     "TC"
+  ],
+  "TW.json": [
+    "TW"
   ],
   "US.json": [
     "FM",

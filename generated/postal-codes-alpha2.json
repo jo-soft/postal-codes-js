@@ -980,7 +980,7 @@
     },
     "MC": {
         "countryName": "Monaco",
-        "postalCodeFormat": "5Digits.json",
+        "postalCodeFormat": "MC.json",
         "alpha2": "MC",
         "alpha3": "MCO",
         "numeric3": "492"
@@ -1152,7 +1152,7 @@
     },
     "PA": {
         "countryName": "Panama",
-        "postalCodeFormat": "6Digits.json",
+        "postalCodeFormat": "4Digits.json",
         "alpha2": "PA",
         "alpha3": "PAN",
         "numeric3": "591"
@@ -1464,7 +1464,7 @@
     },
     "TW": {
         "countryName": "Taiwan, Republic of China",
-        "postalCodeFormat": "5Digits.json",
+        "postalCodeFormat": "TW.json",
         "alpha2": "TW",
         "alpha3": "TWN",
         "numeric3": "158"

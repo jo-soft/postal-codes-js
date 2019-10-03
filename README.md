@@ -12,10 +12,6 @@ Provides javascript postal code validation for [all  countries](https://en.wikip
 3. Supports both [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) and [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) country codes.
 4. Validates optional n-digit extention seperated by a space or hyphen.
 
-### Testing with mocha
-    $ npm test
-    $ npm run coverage
-
 ### Usage
 ```
 const postalCodes = require('postal-codes-js');
@@ -46,6 +42,10 @@ postalCodes.validate('PL', '9999');
 postalCodes.validate('CH');
  > Missing postal code.
 ```
+
+### Testing with mocha
+    $ npm test
+    $ npm run coverage
 
 ## Contribution
 Contributions are more than welcome, just fork the repo and create a pull-request ;)

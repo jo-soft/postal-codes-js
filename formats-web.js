@@ -27,6 +27,7 @@ formats["GI.json"] = require("./formats/GI.json");
 formats["GP.json"] = require("./formats/GP.json");
 formats["GS.json"] = require("./formats/GS.json");
 formats["HN.json"] = require("./formats/HN.json");
+formats["IE.json"] = require("./formats/IE.json");
 formats["IO.json"] = require("./formats/IO.json");
 formats["KY.json"] = require("./formats/KY.json");
 formats["LB.json"] = require("./formats/LB.json");

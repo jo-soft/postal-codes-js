@@ -689,6 +689,13 @@
         "alpha3": "IND",
         "numeric3": "356"
     },
+    "IC": {
+        "countryName": "Canary Islands",
+        "postalCodeFormat": "5Digits.json",
+        "alpha2": "IC",
+        "alpha3": "",
+        "numeric3": ""
+    },
     "ID": {
         "countryName": "Indonesia",
         "postalCodeFormat": "5Digits.json",

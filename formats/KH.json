@@ -1,0 +1,17 @@
+{
+  "Description": "KH",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^[0-9]{6}$",
+  "TestData": {
+    "Valid": [
+      "123456",
+      "111111"
+    ],
+    "Invalid": [
+      "112",
+      "KH123456",
+      "12345",
+      ""
+    ]
+  }
+}

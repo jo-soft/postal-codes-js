@@ -1,0 +1,16 @@
+{
+  "Description": "DE",
+  "RedundantCharacters": " -",
+  "ValidationRegex": "^[0-9]{5}$",
+  "TestData": {
+    "Valid": [
+      "12345",
+      "11111"
+    ],
+    "Invalid": [
+      "112",
+      "DE12345",
+      ""
+    ]
+  }
+}
